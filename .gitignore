@@ -1,0 +1,9 @@
+/eclipse/
+/lib/
+/logs/
+/test-result/
+/tmp/
+/.settings/
+/.classpath
+/.project
+
