@@ -2,7 +2,6 @@
 
 require:
     - play 1.2.4
-    - info.cukes -> cucumber-core 1.0.0.RC20
     - info.cukes -> cucumber-junit 1.0.0.RC20
     - info.cukes -> cucumber-java 1.0.0.RC20
 
