@@ -1,0 +1,5 @@
+- play deps
+- play eclipsify
+- Import the project into Eclipse
+- Open RunCukesTest.java
+- Right click -> Run As -> JUnit Test
